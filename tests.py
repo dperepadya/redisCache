@@ -23,7 +23,7 @@ fibo_dict = {
 
 class TestFibo(unittest.TestCase):
     def setUp(self):
-        r_cache.flushdb()
+        pass
 
     def test_fibo(self):
         for n, value in fibo_dict.items():

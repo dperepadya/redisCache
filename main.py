@@ -16,7 +16,7 @@ def check_cache(func):
 @check_cache
 def fibo(n):
     if n <= 0:
-        raise ValueError("Input n is zero")
+        raise ValueError("Input n is wrong")
     if n == 1:
         return 0
     elif n == 2:
