@@ -17,4 +17,4 @@ This project implements a Fibonacci sequence calculator that utilizes Redis for 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/fibo-redis-cache.git
+   git clone https://github.com/dperepadya/redisCache.git
